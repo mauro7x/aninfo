@@ -1,0 +1,11 @@
+# excluding files without extension
+*
+!/**/
+!*.*
+
+# particular exclusions
+
+# vscode
+.vscode
+
+# temporary exclusions

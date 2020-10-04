@@ -2,6 +2,10 @@
 
 Trabajos prácticos de la materia Análisis de la Información, cátedra Gonzalez.
 
+## Edición del Informe
+
+https://www.overleaf.com/4591295658vnszxdmjqxnr
+
 ## Integrantes
 
 | Nombre | Apellido | Padrón | Mail | Es boquense |

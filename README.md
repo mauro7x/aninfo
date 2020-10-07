@@ -8,10 +8,10 @@ https://www.overleaf.com/4591295658vnszxdmjqxnr
 
 ## Integrantes
 
-| Nombre | Apellido | Padrón | Mail | Es boquense |
-|--------|----------|--------|------|-------------|
-| Mauro | Parafati | 102749 | mparafati@fi.uba.ar | como el dieguito |
-| Nicolás | Aguerre | 102145 | naguerre@fi.uba.ar | desde el cajon hasta la cuna |
-| Santiago | Klein | 102192 | sklein@fi.uba.ar | lider de la division de MDQ de la barra del pelado |
-| Taiel | Colavecchia | 102510 | tcolavecchia@fi.uba.ar | Nope |
-| Yuhong | Huang | {padronNico}+1 | yhuang@fi.uba.ar | manager internacional de riquelme |
+| Nombre | Apellido | Padrón | Mail |
+|--------|----------|--------|------|
+| Mauro | Parafati | 102749 | mparafati@fi.uba.ar |
+| Nicolás | Aguerre | 102145 | naguerre@fi.uba.ar |
+| Santiago | Klein | 102192 | sklein@fi.uba.ar |
+| Taiel | Colavecchia | 102510 | tcolavecchia@fi.uba.ar |
+| Yuhong | Huang | {padronNico}+1 | yhuang@fi.uba.ar |

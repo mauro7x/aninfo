@@ -1,5 +1,7 @@
 # Semana 1
 
+## Notas de la Reunión
+
 + **Hablar en el idioma del modelo de dominio**
 
 - Bajar el objetivo un poco mas a tierra. Describir lo que hace el sistema (desde el punto de vista del sistema)
@@ -13,7 +15,10 @@ atiende pedidos, vende platos, envia pedidos, atiende consultas (que hay, cuanto
 
 - Hipotesis y supuestos: cancelacion de pedidos? como lo atacamos?
 
+# Semana 2
 
+## Preguntas
 
+- ¿Hipótesis sobre los tiempos de elaboración?
 
 
